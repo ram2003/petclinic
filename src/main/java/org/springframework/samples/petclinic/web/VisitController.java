@@ -37,6 +37,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @author Ken Krebs
  * @author Arjen Poutsma
  * @author Michael Isvy
+ *
  */
 @Controller
 public class VisitController {
